@@ -1,4 +1,4 @@
-# Instant Machine Learning with FastAPI and 
+# Instant Machine Learning with FastAPI and Streamlit
 
 ## Project Links
 
